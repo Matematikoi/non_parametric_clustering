@@ -1,1 +1,1 @@
-In the `code` folder you can find code that is used to run the algorithm. In the `data` folder you will find data to run the code and in the `graphs_code` folder you will find the code needed to generate the graphs shown in the paper.
+The `code/` folder contains the code that is used to run the npMSL algorithm described in the manuscript. The `data/` folder contains the data that can be used to run the code with. The `graphs_code/` folder contains the code that is needed to generate plots that are included in the manuscript.
